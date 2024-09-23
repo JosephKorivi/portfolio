@@ -333,6 +333,18 @@ footer .footer-rights {
     margin-left: 20px;
 }
 
+#powerBI  {
+    height: 50px;
+    width: 80px;
+    padding-top: 45px;
+    padding-left: 5px;
+    margin-left: 10px;
+}
+
+#ptext {
+    margin-left: 20px;
+}
+
 #divideProject {
     margin: auto;
 }
