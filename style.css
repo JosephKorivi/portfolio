@@ -141,7 +141,7 @@ main hr {
     height: 93px;
     width: 1px;
     background: #fff;
-    margin: 0 200px 0 150px;
+    margin: 0 100px 0 100px;
 }
 
 .image-top {
@@ -154,7 +154,7 @@ main hr {
 .vertical-title {
     position: relative;
     top: 75px;
-    width: 300px;
+    width: 100px;
 }
 
 #acc, #sky, #wal{
@@ -168,7 +168,7 @@ main hr {
     position: relative;
     top: 90px;
     color: gray;
-    width: 280px;
+    width: 180px;
     font-size: 9px;
 }
 
